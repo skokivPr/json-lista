@@ -22,5 +22,12 @@
     "title": "Grafik",
     "filename": "grafik.json",
     "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/grafik.json"
+  },
+  {
+    "id": 5,
+    "title": "12.zmiany",
+    "filename": "zmiany.json",
+    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/12.zmiany.json"
   }
 ]
+
