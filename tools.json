@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Zmiany",
-    "filename": "zmiany.json",
-    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/zmiany.json"
-  },
-  {
     "id": 2,
     "title": "Notes",
     "filename": "notes.json",
@@ -27,7 +21,7 @@
     "id": 5,
     "title": "12.zmiany",
     "filename": "zmiany.json",
-    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/12.zmiany.json"
+    "url": "https://gist.githubusercontent.com/skokivPr/db4b442a9831f8f329882451e244b6c6/raw/a313e6d16560bde96ede594dcc071ccae594eb31/zmiany.json"
   }
 ]
 
