@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated": "2025-12-19T21:50:16.532Z",
+        "generated": "2025-12-20T05:33:29.391Z",
         "days": [
             "1",
             "2",
@@ -67,11 +67,11 @@
             "WT",
             "SR"
         ],
-        "month": "GRUDZIEN"
+        "month": "GRUDZIEŃ"
     },
     "workers": [
         {
-            "id": 0,
+            "id": "1",
             "name": "Piotr P",
             "shifts": [
                 "U",
@@ -108,7 +108,7 @@
             ]
         },
         {
-            "id": 1,
+            "id": "2",
             "name": "Anita K",
             "shifts": [
                 "",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": "3",
             "name": "Bogusława K",
             "shifts": [
                 "",
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": "4",
             "name": "Katarzyna K",
             "shifts": [
                 "2",
@@ -219,7 +219,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": "5",
             "name": "Ewelina W",
             "shifts": [
                 "1",
@@ -256,7 +256,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": "6",
             "name": "Klaudia J",
             "shifts": [
                 "",
@@ -293,24 +293,24 @@
             ]
         },
         {
-            "id": 6,
+            "id": "7",
             "name": "Michał M",
             "shifts": [
-                "ZW",
+                "W",
                 "",
-                "ZW",
+                "W",
                 "",
-                "ZW",
-                "",
-                "",
-                "ZW",
+                "W",
                 "",
                 "",
-                "ZW",
-                "ZW",
+                "W",
                 "",
                 "",
-                "ZW",
+                "W",
+                "W",
+                "",
+                "",
+                "W",
                 "",
                 "",
                 "",
@@ -330,7 +330,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": "8",
             "name": "Teresa M",
             "shifts": [
                 "2",
@@ -367,7 +367,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": "9",
             "name": "Piotr M",
             "shifts": [
                 "1",
@@ -404,7 +404,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": "10",
             "name": "Bartosz K",
             "shifts": [
                 "X",
@@ -441,7 +441,7 @@
             ]
         },
         {
-            "id": 10,
+            "id": "11",
             "name": "Jakub J",
             "shifts": [
                 "X",
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": "12",
             "name": "Monika Ś",
             "shifts": [
                 "",
@@ -515,7 +515,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": "13",
             "name": "Martyna C",
             "shifts": [
                 "1",
@@ -552,7 +552,7 @@
             ]
         },
         {
-            "id": 13,
+            "id": "14",
             "name": "Danuta D",
             "shifts": [
                 "1",
@@ -589,7 +589,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": "15",
             "name": "Emilia F",
             "shifts": [
                 "",
@@ -626,7 +626,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": "16",
             "name": "Anna F",
             "shifts": [
                 "X",
@@ -663,7 +663,7 @@
             ]
         },
         {
-            "id": 16,
+            "id": "17",
             "name": "Sylwia J",
             "shifts": [
                 "",
@@ -700,7 +700,7 @@
             ]
         },
         {
-            "id": 17,
+            "id": "18",
             "name": "Magdalena K",
             "shifts": [
                 "2",
@@ -737,7 +737,7 @@
             ]
         },
         {
-            "id": 18,
+            "id": "19",
             "name": "Teresa M",
             "shifts": [
                 "",
@@ -774,7 +774,7 @@
             ]
         },
         {
-            "id": 19,
+            "id": "20",
             "name": "Justyna R",
             "shifts": [
                 "",
@@ -811,7 +811,7 @@
             ]
         },
         {
-            "id": 20,
+            "id": "21",
             "name": "Justyna S",
             "shifts": [
                 "",
@@ -848,7 +848,7 @@
             ]
         },
         {
-            "id": 21,
+            "id": "22",
             "name": "Daniela S",
             "shifts": [
                 "2",
@@ -885,7 +885,7 @@
             ]
         },
         {
-            "id": 22,
+            "id": "23",
             "name": "Joanna S",
             "shifts": [
                 "",
@@ -922,7 +922,7 @@
             ]
         },
         {
-            "id": 23,
+            "id": "24",
             "name": "Kateryna S",
             "shifts": [
                 "",
@@ -959,7 +959,7 @@
             ]
         },
         {
-            "id": 24,
+            "id": "25",
             "name": "Sylwia I",
             "shifts": [
                 "",
@@ -996,7 +996,7 @@
             ]
         },
         {
-            "id": 25,
+            "id": "26",
             "name": "Dawid B",
             "shifts": [
                 "",
@@ -1033,7 +1033,7 @@
             ]
         },
         {
-            "id": 26,
+            "id": "27",
             "name": "Ryszard B",
             "shifts": [
                 "2",
@@ -1070,7 +1070,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": "28",
             "name": "Piotr K",
             "shifts": [
                 "",
@@ -1107,7 +1107,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": "29",
             "name": "Marek Ma",
             "shifts": [
                 "",
@@ -1144,7 +1144,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": "30",
             "name": "Marek Mi",
             "shifts": [
                 "",
@@ -1181,8 +1181,8 @@
             ]
         },
         {
-            "id": 30,
-            "name": "Jakub  P",
+            "id": "31",
+            "name": "Jakub P",
             "shifts": [
                 "2",
                 "",
@@ -1218,7 +1218,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": "32",
             "name": "Robert K",
             "shifts": [
                 "1",
@@ -1255,7 +1255,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": "33",
             "name": "Tomasz N",
             "shifts": [
                 "2",
@@ -1292,7 +1292,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": "34",
             "name": "Dariusz R",
             "shifts": [
                 "1",
@@ -1329,7 +1329,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": "35",
             "name": "Mirosław M",
             "shifts": [
                 "1",
@@ -1366,8 +1366,8 @@
             ]
         },
         {
-            "id": 35,
-            "name": "Piotr Z",
+            "id": "36",
+            "name": "Piotr P",
             "shifts": [
                 "2",
                 "P2",
@@ -1403,7 +1403,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": "37",
             "name": "Patryk K",
             "shifts": [
                 "",
@@ -1440,7 +1440,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": "38",
             "name": "Grzegorz K",
             "shifts": [
                 "P2",
@@ -1477,7 +1477,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": "39",
             "name": "Jakub C",
             "shifts": [
                 "",
@@ -1514,7 +1514,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": "40",
             "name": "Kacper C",
             "shifts": [
                 "",
@@ -1551,8 +1551,8 @@
             ]
         },
         {
-            "id": 40,
-            "name": "Zbigniew S",
+            "id": "41",
+            "name": "bigniew S",
             "shifts": [
                 "X",
                 "X",
@@ -1588,7 +1588,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": "42",
             "name": "Kamila B",
             "shifts": [
                 "P2",
@@ -1625,7 +1625,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": "43",
             "name": "Arkadiusz S",
             "shifts": [
                 "",
@@ -1662,7 +1662,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": "44",
             "name": "Jakub A",
             "shifts": [
                 "1",
@@ -1699,7 +1699,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": "45",
             "name": "Robert C",
             "shifts": [
                 "X",
@@ -1736,7 +1736,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": "46",
             "name": "Karol D",
             "shifts": [
                 "2",
@@ -1773,7 +1773,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": "47",
             "name": "Marcel K",
             "shifts": [
                 "X",
@@ -1810,7 +1810,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": "48",
             "name": "Sebastian K",
             "shifts": [
                 "P1",
@@ -1847,7 +1847,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": "49",
             "name": "Joanna K",
             "shifts": [
                 "",
@@ -1884,7 +1884,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": "50",
             "name": "Adam K",
             "shifts": [
                 "",
@@ -1921,7 +1921,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": "51",
             "name": "Arkadiusz Ł",
             "shifts": [
                 "1",
@@ -1958,7 +1958,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": "52",
             "name": "Maciej N",
             "shifts": [
                 "",
@@ -1995,7 +1995,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": "53",
             "name": "Dawid R",
             "shifts": [
                 "",
@@ -2032,7 +2032,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": "54",
             "name": "Kamil S",
             "shifts": [
                 "P1",
@@ -2069,7 +2069,7 @@
             ]
         },
         {
-            "id": 54,
+            "id": "55",
             "name": "Svitlana J",
             "shifts": [
                 "X",
@@ -2106,7 +2106,7 @@
             ]
         },
         {
-            "id": 55,
+            "id": "56",
             "name": "Jerzy J",
             "shifts": [
                 "X",
@@ -2143,7 +2143,7 @@
             ]
         },
         {
-            "id": 56,
+            "id": "57",
             "name": "Łukasz S",
             "shifts": [
                 "2",
@@ -2180,7 +2180,7 @@
             ]
         },
         {
-            "id": 57,
+            "id": "58",
             "name": "Robert S",
             "shifts": [
                 "",
@@ -2217,7 +2217,7 @@
             ]
         },
         {
-            "id": 58,
+            "id": "59",
             "name": "Magda D",
             "shifts": [
                 "",
