@@ -4,7 +4,7 @@
     { "min": 6, "max": 10, "code": "s", "name": "SEKCJA S" },
     { "min": 11, "max": 12, "code": "l", "name": "SEKCJA L" },
     { "min": 13, "max": 24, "code": "k", "name": "SEKCJA K" },
-    { "min": 25, "max": 35, "code": "m", "name": "SEKCJA M" },
-    { "min": 36, "max": 58, "code": "y", "name": "SEKCJA Y" }
+    { "min": 25, "max": 36, "code": "m", "name": "SEKCJA M" },
+    { "min": 37, "max": 58, "code": "y", "name": "SEKCJA Y" }
   ]
 }
