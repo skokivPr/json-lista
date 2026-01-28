@@ -1,11 +1,74 @@
-[
-  { "label": "Brak plomby", "text": "BRAK PLOMBY" },
-  { "label": "Plomba uszkodzona", "text": "PLOMBA USZKODZONA" },
-  { "label": "Naczepa uszkodzona", "text": "NACZEPA USZKODZONA" },
-  { "label": "Kierowca bez dokumentów", "text": "KIEROWCA BEZ DOKUMENTÓW" },
-  { "label": "LEWA", "text": "LEWA STRONA" },
-  { "label": "PRAWA", "text": "PRAWA STRONA" },
-  { "label": "OBYDWIE", "text": "OBYDWIE STRONY" },
-  { "label": "Niezgodność danych", "text": "NIEZGODNOŚĆ DANYCH" },
-  { "label": "Inne (dopisz)", "text": "INNE: " }
-] 
+{
+  "DATA.LABELS_V1": [
+    {
+      "label": "Brak plomby",
+      "text": "BRAK PLOMBY"
+    },
+    {
+      "label": "Plomba uszkodzona",
+      "text": "PLOMBA USZKODZONA"
+    },
+    {
+      "label": "Naczepa uszkodzona",
+      "text": "NACZEPA USZKODZONA"
+    },
+    {
+      "label": "Kierowca bez dokumentów",
+      "text": "KIEROWCA BEZ DOKUMENTÓW"
+    },
+    {
+      "label": "LEWA",
+      "text": "LEWA STRONA"
+    },
+    {
+      "label": "PRAWA",
+      "text": "PRAWA STRONA"
+    },
+    {
+      "label": "Niezgodność danych",
+      "text": "NIEZGODNOŚĆ DANYCH"
+    },
+    {
+      "label": "Inne (dopisz)",
+      "text": "INNE: "
+    }
+  ],
+  "DATA.LABELS_V2": [
+    {
+      "label": "Brak plomby",
+      "text": "BRAK PLOMBY"
+    },
+    {
+      "label": "Plomba uszkodzona",
+      "text": "PLOMBA USZKODZONA"
+    },
+    {
+      "label": "Naczepa uszkodzona",
+      "text": "NACZEPA USZKODZONA"
+    },
+    {
+      "label": "Kierowca bez dokumentów",
+      "text": "KIEROWCA BEZ DOKUMENTÓW"
+    },
+    {
+      "label": "LEWA",
+      "text": "LEWA STRONA"
+    },
+    {
+      "label": "PRAWA",
+      "text": "PRAWA STRONA"
+    },
+    {
+      "label": "OBYDWIE",
+      "text": "OBYDWIE STRONY"
+    },
+    {
+      "label": "Niezgodność danych",
+      "text": "NIEZGODNOŚĆ DANYCH"
+    },
+    {
+      "label": "Inne (dopisz)",
+      "text": "INNE: "
+    }
+  ]
+}
